@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fortnite-characters/static/css/main.0ced0ffa.chunk.css",
+    "main.js": "/fortnite-characters/static/js/main.7ece3ce7.chunk.js",
+    "main.js.map": "/fortnite-characters/static/js/main.7ece3ce7.chunk.js.map",
+    "runtime-main.js": "/fortnite-characters/static/js/runtime-main.768090ad.js",
+    "runtime-main.js.map": "/fortnite-characters/static/js/runtime-main.768090ad.js.map",
+    "static/css/2.87583f7f.chunk.css": "/fortnite-characters/static/css/2.87583f7f.chunk.css",
+    "static/js/2.6b9672d6.chunk.js": "/fortnite-characters/static/js/2.6b9672d6.chunk.js",
+    "static/js/2.6b9672d6.chunk.js.map": "/fortnite-characters/static/js/2.6b9672d6.chunk.js.map",
+    "index.html": "/fortnite-characters/index.html",
+    "precache-manifest.36ac41d63df3df72210ea002f4b31f79.js": "/fortnite-characters/precache-manifest.36ac41d63df3df72210ea002f4b31f79.js",
+    "service-worker.js": "/fortnite-characters/service-worker.js",
+    "static/css/2.87583f7f.chunk.css.map": "/fortnite-characters/static/css/2.87583f7f.chunk.css.map",
+    "static/css/main.0ced0ffa.chunk.css.map": "/fortnite-characters/static/css/main.0ced0ffa.chunk.css.map",
+    "static/js/2.6b9672d6.chunk.js.LICENSE.txt": "/fortnite-characters/static/js/2.6b9672d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.768090ad.js",
+    "static/css/2.87583f7f.chunk.css",
+    "static/js/2.6b9672d6.chunk.js",
+    "static/css/main.0ced0ffa.chunk.css",
+    "static/js/main.7ece3ce7.chunk.js"
+  ]
+}
