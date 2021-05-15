@@ -3,7 +3,6 @@ import { Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 const NavBar = () => {
-  console.log('Navbar rendered');
   return (
     <Navbar bg="primary" variant="dark">
       <Navbar.Brand href="#home">
