@@ -34,7 +34,9 @@ nav {
 .card {
   text-align: center;
   margin-top: 2rem;
-  margin-left: 2rem;
+  /*margin-left: 2rem;*/
+  margin-left: auto;
+  margin-right: auto;
   border: 1px solid;
   border-radius: 5px;
   box-shadow: rgb(158 158 158 / 62%) 1px 1px 3px 2px;

@@ -12,11 +12,14 @@ const NavBar = () => {
           width="30"
           height="30"
           className="d-inline-block align-top"
-          alt="React Bootstrap logo"
+          alt="fortnite character pic"
         />
       </Navbar.Brand>
 
       <Nav className="ml-auto">
+        <Link className="nav-link" to="/shop">
+          Shop
+        </Link>
         <Link className="nav-link" to="/about">
           About
         </Link>

@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { Container, Row, Card, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import StarRating from './StarRating';
-import '../App.css';
 
 function Shop() {
   const [shopItems, setShopItems] = useState([]);
@@ -13,7 +12,8 @@ function Shop() {
     padding: '10px',
     width: '18rem',
     marginTop: '2rem',
-    marginLeft: '2rem',
+    marginLeft: 'auto',
+    marginRight: 'auto',
   };
 
   useEffect(() => {
@@ -110,7 +110,7 @@ function Shop() {
               className="mt-3 mx-auto w-50 p-3"
               disabled={favoriteItems.length > 0 ? false : true}
               variant={favoriteItems.length > 0 ? 'primary' : 'secondary'}
-              download="filename.json"
+              download="favoriteCards.json"
               style={{
                 color: favoriteItems.length > 0 ? '#ffffff' : '#9e9e9e',
                 pointerEvents: favoriteItems.length > 0 ? 'auto' : 'none',
